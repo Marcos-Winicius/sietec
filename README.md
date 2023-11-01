@@ -1,2 +1,2 @@
 # sietec
- tcc curso técnico em informática para internet
+ tcc curso técnico informática para internet
